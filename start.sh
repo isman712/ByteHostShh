@@ -7,7 +7,7 @@ convertir_color() {
 }
 
 ansi_color1="#AF04EA"
-ansi_color2="#BD35EC"
+ansi_color2="#FFFFFF"
 ansi_color3="#CD4AFA"
 ansi_color4="#CF70F0"
 
